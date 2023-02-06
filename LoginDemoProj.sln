@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginDemoProj", "LoginDemoProj\LoginDemoProj.csproj", "{FC12CD64-C484-4830-B428-993C75CB0B7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{82F6F0F8-027B-46EB-8D36-F9FA485D6298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC12CD64-C484-4830-B428-993C75CB0B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC12CD64-C484-4830-B428-993C75CB0B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC12CD64-C484-4830-B428-993C75CB0B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC12CD64-C484-4830-B428-993C75CB0B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {830E1151-C9DC-4980-9ECD-40A9B1AEB7BA}
+	EndGlobalSection
+EndGlobal
